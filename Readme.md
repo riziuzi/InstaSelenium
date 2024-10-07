@@ -1,6 +1,6 @@
 # Instagram Automation Project - using Selenium - Monitoring using telegram Chatbot
 
-
+![SocialMediaGIF](https://github.com/user-attachments/assets/a195c71f-2800-4332-9bdf-4e1328dd99d1) 
 
 ### Desclaimer
 
