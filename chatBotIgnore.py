@@ -1,0 +1,2 @@
+chat_ID = '1639496874'
+bot_ID = '5318516247:AAGbfmR3mYwxYDs4IooEMcVR0q54OHKiqjw'
